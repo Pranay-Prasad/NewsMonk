@@ -9,13 +9,14 @@ Online News website to get news headline with sources.
 
 This is my first React js Project Which gives top headlines for daily news. To get the news we have used News API.
 
-![image](https://user-images.githubusercontent.com/78464424/207326835-c2061ee9-6f7d-4b02-b94d-b85a07e9c83d.png)
+![image](https://user-images.githubusercontent.com/78464424/207327284-780c103a-a980-4647-a4bc-7f3e5dadaa36.png)
 
 
 ## KEY-FEATURES
 
 1. Get the top headlines of the day.
-2. Navigate to the source of the news and read full article
+2. Navigate to the source of the news and read full article.
+3. Can sort the news according to the category.
 4. Used Bootstrap for modern CSS
 ## Tech Stack
 
